@@ -1,0 +1,13 @@
+git_notes
+
+master branch is a lable that git creates for us when we initialize a repository
+
+HEAD is another lable that git creates for us when we create our first commit
+
+HEAD is *not* a branch
+
+#creates a new branch (label) called git-notes
+git branch git-notes
+
+#shows us which branch is active
+git branch
