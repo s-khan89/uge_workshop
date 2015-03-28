@@ -11,3 +11,9 @@ git branch git-notes
 
 #shows us which branch is active
 git branch
+
+#git hub is a hub of .git/ directories
+
+you can push and pull commits to and from .git/ directories
+
+you can also clone .git/ directories to new computers or new paths
