@@ -1,3 +1,6 @@
+#hidden folder where the staging area and commits live
+.git/
+
 ll
 ls -l
 ls
